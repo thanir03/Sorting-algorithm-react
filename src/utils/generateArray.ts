@@ -1,5 +1,4 @@
 import { arrayItemType } from "../store/state";
-import { v4 as uuid } from "uuid";
 import { MAX_ARRAY_SIZE, MIN_ARRAY_SIZE } from "./helper";
 
 const generateArray = (size: number): arrayItemType[] => {
