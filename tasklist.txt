@@ -1,0 +1,5 @@
+4/1/2023
+
+1. Maybe it is possible to execute the script from the NavBar separately (without a useEffect)
+2. Implement the algorithms 
+3. Convert all style files into a single file (index.css)
